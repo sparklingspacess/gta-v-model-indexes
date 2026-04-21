@@ -10,3 +10,4 @@ beverly = 7271
 skeleton = 17602
 alien = 7769
 naked guy = 7608
+freemode male = 7259
